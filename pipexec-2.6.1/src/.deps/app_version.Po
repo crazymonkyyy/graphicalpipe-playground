@@ -1,0 +1,4 @@
+src/app_version.o: src/app_version.c /usr/include/stdc-predef.h \
+ src/version.h
+/usr/include/stdc-predef.h:
+src/version.h:

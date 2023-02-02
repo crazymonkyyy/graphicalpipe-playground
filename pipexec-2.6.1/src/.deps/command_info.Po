@@ -1,0 +1,9 @@
+src/command_info.o: src/command_info.c /usr/include/stdc-predef.h \
+ src/command_info.h src/logging.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include/stddef.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include/stdbool.h
+/usr/include/stdc-predef.h:
+src/command_info.h:
+src/logging.h:
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include/stddef.h:
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include/stdbool.h:
